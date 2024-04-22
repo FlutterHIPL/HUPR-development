@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637801434179",
+    "project_id": "taxi-a3e60",
+    "storage_bucket": "taxi-a3e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637801434179:android:a159d6da6c6a3e4ac4d8f6",
+        "android_client_info": {
+          "package_name": "com.example.hupr_texibooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLV1F-TJAY6yoCWOCQQrEmZnWkYO6A3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
